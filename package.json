@@ -1,0 +1,24 @@
+{
+    "name": "NRM",
+    "preferGlobal": "true",
+    "version": "0.0.0-ignored",
+    "description": "A simple comparession tool for ensuring that runs continuously ",
+    "version": "0.3.0",
+    "author": "Leju Inc",
+    "maintainers": [
+        "lingyun <lingyun@leju.com>",
+        "guanjia <guanjia@leju.com>"
+    ],
+    "devDependencies": {
+        "redis": "~0.10.1",
+        "nodemailer": "0.6.1",
+        "less": "1.7.0",
+        "log4js": "1.1.4",
+        "connect": "2.14.3",
+        "forever": "0.11.1",
+        "bunyan": "0.23.1"
+    }
+    "engines": {
+        "node": ">= 0.8.x"
+    }
+}
